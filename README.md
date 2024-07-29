@@ -1,2 +1,2 @@
 # Web-development-with-Django-Third-Edition
-Web development with Django Third Edition, published by Packt
+Web Development with Django Third Edition, published by Packt
